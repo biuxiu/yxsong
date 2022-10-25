@@ -87,7 +87,7 @@ author:
   employer         : "Penn State University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WkS8Ey0AAAAJ&hl=zh-CN"
-  email            :
+  email            : "yzs220@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yixuan-song-675b20132/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9797-3471"
+  linkedin         : "https://www.linkedin.com/in/biuxiu/"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0001-9797-3471"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
