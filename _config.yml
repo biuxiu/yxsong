@@ -11,7 +11,7 @@ title                    : "Yixuan Song"
 title_separator          : "-"
 name                     : &name "Yixuan Song"
 description              : &description "Research Assistant at Penn State University"
-url                      : https://biuxiu.github.io/yxsong/
+url                      : https://biuxiu.github.io/yxsong
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yxsong.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
