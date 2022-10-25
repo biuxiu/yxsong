@@ -9,23 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* The Pennsylvania State University, 2023 (expected)
+  * Ph.D., Mechanical Engineering
+  * Dissertation: Determination of Marine Aggregates Fragmentation Strength through Laboratory and Field Methods
+  * Advisor: Dr. Matthew J. Rau
+* University of Southern California, 2018
+  * M.S., Mechanical and Aerospace Engineering
+* Shanghai Jiao Tong University
+  * B.S., Mechanical Engineering 
 
-Work experience
+INDUSTRIAL EXPERIENCE
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fiat Chrysler Automobile, Dec 2015 - May 2016
+  * Engineering Intern
+  * Responsible for IOV Development in Jeep car models
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
