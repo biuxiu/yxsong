@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Yixuan Song"
 title_separator          : "-"
 name                     : &name "Yixuan Song"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Assistant at Penn State University"
+url                      : https://biuxiu.github.io/yxsong/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yxsong.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yixuan Song"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Research Assistant at Penn State University | experimental fluid dynamics & ocean engineering"
+  location         : "University Park, PA"
+  employer         : "Penn State University"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=WkS8Ey0AAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,22 +96,22 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/biuxiu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/yixuan-song-675b20132/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9797-3471"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/2009934663"
   xing             :
   youtube          :
   wikipedia        :
