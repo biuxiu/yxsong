@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,8 +17,8 @@ EDUCATION
   * Advisor: Dr. Matthew J. Rau
 * University of Southern California, 2018
   * M.S., Mechanical and Aerospace Engineering
-* Shanghai Jiao Tong University
-  * B.S., Mechanical Engineering 
+* Shanghai Jiao Tong University, 2016
+  * B.S., Mechanical Engineering
 
 INDUSTRIAL EXPERIENCE
 ======
