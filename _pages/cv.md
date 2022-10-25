@@ -71,9 +71,11 @@ AWARDS
 CRUISES
 ======
 * Research Scientist, 2022
-  * 12-day cruise, Gulf of Maine, R/V Hugh R. Sharp, OCE-1948283.
+  * Gulf of Maine
+  * R/V Hugh R. Sharp
 * Research Scientist, 2022
-  * 2-day cruise, Lake Tahoe, CA, R/V Bob Richards.
+  * Lake Tahoe, CA
+  * R/V Bob Richards
   
 INDUSTRIAL EXPERIENCE
 ======
